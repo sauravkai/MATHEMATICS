@@ -1,4 +1,3 @@
-// Online C compiler to run C program online
 #include <stdio.h>
 
 int main() 
@@ -37,6 +36,7 @@ scanf("%f", &side);
 printf("AREA OF SQUARE = %f \n\n", side*side);
 
 //TO PRINT THE AGE
+
 int age;
 printf("ENTER YOUR AGE = ");
 scanf("%d", &age);
