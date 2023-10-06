@@ -55,8 +55,5 @@ else if (age<18)
 printf("you are MINOR \n");
 printf("AGE = %d \n", age);
 }
-
-
-
 return 0;
 }
